@@ -1,0 +1,12 @@
+html,body{
+height: 100%;
+margin: 0;
+}
+
+body{
+background: rgb(177, 128, 181);
+}
+
+#welcome{
+    color: black;
+}
